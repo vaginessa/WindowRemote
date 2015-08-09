@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WindowRemote</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="epoch">epoch time displays here</string>
+    <string name="setPosition">What position?</string>
+    <string name="setTime">For how long?</string>
+    <string name="buttonGo">Make it so</string>
+    <string name="positionCounter">0%</string>
+    <string name="timeCounter">0 hours 0 minutes</string>
+
+</resources>
